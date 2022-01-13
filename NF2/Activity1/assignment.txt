@@ -1,0 +1,7 @@
+1.Identify the kernel name:
+2.Identify the kernel release:
+3.Identify the kernel version:
+4.Identify the processor type:
+5.Identify the operating system:
+6.Identify three users who are logged on the system and record the IP Address for each user:
+7.Identify the pseudo-device endpoints of the same three (3) users who are logged on the system:

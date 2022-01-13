@@ -1,0 +1,15 @@
+Format: Command, Output
+1. uname -s, Linux
+2. uname -r, 5.4.0-kali2-amd64
+3. uname -v, #1 SMP Debian 5.4.8-1kali1 (2020-01-06)
+4. uname -m, x86_64 
+5. uname -p, Unknown
+6. uname -o, GNU/Linux
+7. watch -n1 who,
+    user1 (10.27.108.29)
+    user2 (10.180.7.154)
+    user13 (10.27.108.183)
+8.watch -n1 who,
+    user1    pts/2
+    user2    pts/3
+    user36   pts/6
