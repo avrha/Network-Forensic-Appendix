@@ -1,0 +1,8 @@
+Frame Header
+version type subtype DS F R P M W O
+80      10   100     01 0 0 0 0 0 0
+
+Bit Translation
+subtype type version O W N P R F DS
+1000    10   00      0 0 0 0 0 0 01
+hex value: 0x88 | hex value: 0x01
