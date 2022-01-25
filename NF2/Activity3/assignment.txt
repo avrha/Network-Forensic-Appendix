@@ -1,0 +1,18 @@
+ITEM #1
+            Vers Type Sub | Ds F R P M W O
+Data Bits    00   01  1101| 0  0 0 0 0 0 0
+Hex           0x1E        |    0x00
+
+
+ITEM #2
+            Sub  Type Ver | Ds F R P M W O
+Data Bits    00   01  1101| 0  0 0 0 0 0 0
+Hex           0xD4        |    0x00
+
+
+
+ITEM #3
+            Vers Type Sub | Ds F R P M W O
+Data Bits    00   01  1101| 0  0 0 0 0 0 0
+Hex           0x1E        |    0x00
+
